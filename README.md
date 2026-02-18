@@ -9,7 +9,16 @@
 
 <p align="center">
   <strong>Instale aplicativos no seu Xbox 360 RGH/JTAG automaticamente via FTP.</strong><br>
-  Sem extração manual. Sem pendrive. Sem cliente FTP externo.
+  Sem extração manual. Sem pendrive. Processo inteligente e automatizado.
+</p>
+
+---
+
+## 🖼️ Preview
+
+<p align="center">
+  <!-- Substitua o caminho abaixo pela imagem real do programa -->
+  <img src="preview.png" alt="RGH STORE FTP Preview" width="800">
 </p>
 
 ---
@@ -19,10 +28,11 @@
 O **RGH STORE FTP** é uma aplicação desenvolvida para automatizar completamente a instalação de aplicativos no Xbox 360 modificado (RGH/JTAG).
 
 Ele elimina processos manuais como:
-- Baixar arquivos no navegador
-- Extrair pacotes manualmente
-- Usar pendrive
-- Configurar clientes FTP externos
+
+- Baixar arquivos no navegador  
+- Extrair pacotes manualmente  
+- Usar pendrive  
+- Configurar clientes FTP externos  
 
 Tudo acontece dentro do próprio programa.
 
@@ -36,13 +46,13 @@ Simplificar ao máximo a instalação de apps como:
 - Freestyle  
 - Outros homebrews compatíveis  
 
-O usuário apenas:
+Fluxo simples:
 
-1. Informa os dados FTP
-2. Escolhe o aplicativo
-3. Clica em **Instalar**
+1. Informar dados FTP  
+2. Escolher aplicativo  
+3. Clicar em **Instalar**  
 
-O resto é automático.
+O restante é automático.
 
 ---
 
@@ -57,32 +67,33 @@ O resto é automático.
 ### 💾 Conexão Automática
 - Salvamento seguro dos dados
 - Reconexão rápida
-- Sem necessidade de configurar novamente
+- Sem necessidade de reconfiguração
 
 ### 🔎 Busca Automática de IP
 - Detecta automaticamente o Xbox na rede local
-- Reduz erros de configuração manual
+- Reduz erros manuais
 
 ### 📦 Instalação Inteligente Automatizada
 
-Processo interno ao clicar em **Instalar**:
+Ao clicar em **Instalar**, o sistema:
 
-1. Download do pacote
-2. Extração automática
-3. Envio via FTP
-4. Organização no diretório correto
-5. Confirmação final com mensagem **“Instalado com sucesso”**
+1. Baixa o pacote  
+2. Extrai automaticamente  
+3. Envia via FTP  
+4. Organiza no diretório correto  
+5. Exibe **“Instalado com sucesso”**  
 
-Zero intervenção manual.
+Processo 100% automatizado.
 
 ---
 
 ## 🖥️ Requisitos
 
-- Xbox 360 com RGH ou JTAG
-- Dashboard compatível (Aurora recomendado)
-- FTP ativo no console
-- PC e Xbox na mesma rede local
+- Xbox 360 com RGH ou JTAG  
+- Dashboard compatível (Aurora recomendado)  
+- FTP ativo no console  
+- PC e Xbox na mesma rede local  
+- WinRAR instalado no PC  
 
 ---
 
@@ -100,9 +111,10 @@ Zero intervenção manual.
 ## 🧠 Diferencial
 
 ✔ Instalação em poucos cliques  
-✔ Processo 100% automatizado  
-✔ Foco em praticidade  
-✔ Pensado para usuários iniciantes e avançados  
+✔ Processo automatizado  
+✔ Redução total de etapas manuais  
+✔ Simples para iniciantes  
+✔ Poderoso para usuários avançados  
 
 ---
 
@@ -121,10 +133,10 @@ Toda contribuição ajuda na evolução, manutenção e novas funcionalidades.
 ## 📢 Status
 
 🚧 Projeto em desenvolvimento ativo  
-Novas atualizações serão adicionadas constantemente.
+Atualizações serão adicionadas constantemente.
 
 ---
 
 <p align="center">
-  Feito para a comunidade RGH.
+  Desenvolvido para a comunidade RGH.
 </p>
