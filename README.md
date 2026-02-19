@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- Substitua o caminho abaixo pela imagem real do programa -->
-  <img src="preview.png" alt="RGH STORE FTP Preview" width="800">
+  <img src="image.png" alt="RGH STORE FTP Preview" width="800">
 </p>
 
 ---
