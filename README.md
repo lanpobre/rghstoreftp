@@ -1,7 +1,7 @@
 # 🚀 RGH STORE FTP
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-beta-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/platform-Xbox%20360-107C10?style=for-the-badge" />
   <img src="https://img.shields.io/badge/connection-FTP-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/automation-100%25-success?style=for-the-badge" />
@@ -76,7 +76,11 @@ O restante é automático.
 ### 🔍 Barra de Pesquisa
 - Busca rápida por Apps  
 - Busca rápida por Plugins  
-- Filtro instantâneo por nome  
+- Filtro instantâneo por nome
+
+### Auto Update
+- Programa Verifica se há uma atualização
+- Exibe Na tela pergutando se quer ou não atualizar o programa
 
 ### 📂 Organização Automática por Tipo
 
